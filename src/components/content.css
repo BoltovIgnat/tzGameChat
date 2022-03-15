@@ -1,0 +1,6 @@
+.content {
+    background: rgba(0, 0, 0, 0.5);
+    height: 320px;
+    display: flex;
+    flex-direction: column-reverse;
+}
